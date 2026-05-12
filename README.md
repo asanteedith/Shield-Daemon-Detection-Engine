@@ -140,22 +140,22 @@ The dashboard at `:8080` refreshes every **3 seconds** and shows:
 ##  Screenshots
 
 ###  Daemon Running — Processing Live Traffic
-![Tool Running](screenshots/Tool-running.png)
+![Tool Running](Tool-running.png)
 
 ###  IP Banned — iptables DROP Rule Active
-![iptables Banned](screenshots/Iptables-banned.png)
+![iptables Banned](Iptables-banned.png)
 
 ###  Audit Log — Structured Ban and Unban Events
-![Audit Log](screenshots/Audit-log.png)
+![Audit Log](Audit-log.png)
 
 ###  Slack — IP Ban Alert
-![Ban Slack](screenshots/Ban-slack.png)
+![Ban Slack](Ban-slack.png)
 
 ###  Slack — IP Unban Notification
-![Unban Slack](screenshots/Unban-slack.png)
+![Unban Slack](Unban-slack.png)
 
 ###  Slack — Global Traffic Anomaly Alert
-![Global Alert](screenshots/Global-alert-slack.png)
+![Global Alert](Global-alert-slack.png)
 
 ---
 
