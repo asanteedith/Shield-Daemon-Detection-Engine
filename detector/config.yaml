@@ -1,0 +1,18 @@
+audit_log: /var/log/detector/audit.log
+ban_schedule:
+- 600
+- 1800
+- 7200
+- -1
+baseline_floor_mean: 0.1
+baseline_floor_std: 0.1
+baseline_interval: 60
+baseline_min_requests: 10
+baseline_window: 1800
+dashboard_port: 8080
+error_rate_multiplier: 3.0
+log_path: /var/log/nginx/hng-access.log
+rate_multiplier: 2.0
+slack_webhook: YOUR_SLACK_WEBHOOK_URL
+window_seconds: 60
+z_score_threshold: 2.0
